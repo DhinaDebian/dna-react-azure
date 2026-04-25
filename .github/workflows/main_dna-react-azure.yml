@@ -61,5 +61,5 @@ jobs:
         with:
           app-name: 'dna-react-azure'
           slot-name: 'Production'
-          package: .
+          package: dist
           
